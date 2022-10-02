@@ -1,0 +1,6 @@
+{
+    "interval_in_minutes": 10,
+    "urls": [
+        "https://example.com"
+    ]
+}
